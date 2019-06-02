@@ -1,0 +1,15 @@
+LISTA TV.m3u
+
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://www.criatudo.com.br/image/cache/data/produtos/logotipo_-500x500.jpg" pltv-name="LISTA DINHO" pltv-description="CANAIS DE FILMES ESPORTE TV E DESENHOS" pltv-cover="http://analogias.com.br/wp-content/uploads/2018/02/LOGO_COTTONFIELD.jpg" pltv-author="DINHO" pltv-site="XXX SITE CASO HOUVER XXX" pltv-email="dinhofsf@yahoo.com.br"
+
+
+################## ESPORTE ########################
+
+#EXTINF:-1 tvg-logo="http://imagem.natelinha.uol.com.br/grande/sportv.jpg" group-title="CANAL DE ESPORTES" pltv-subgroup="SPORTV", SPORTV
+blob:https://cometa.top/0c097d8f-49f9-4a6b-b90f-1c8aad715584
+
+
+
+
+
